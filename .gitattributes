@@ -1,0 +1,56 @@
+## Unidad ##
+
+*.csdiff=csharptexto
+*Texto .cginc
+*Texto .shader
+
+*.mat merge=unityyamlmerge eol=lf
+*.anim merge=unityyamlmerge eol=lf
+*.unity merge=unityyamlmerge eol=lf
+*.prefab merge=unityyamlmerge eol=lf
+*.physicsMaterial2D merge=unityyamlmerge eol=lf
+*.physicMaterial merge=unityyamlmerge eol=lf
+*.asset merge=unityyamlmerge eol=lf
+*.meta merge=unityyamlmerge eol=lf
+*.controller merge=unityyamlmerge eol=lf
+
+
+## git-lfs ##
+
+# Imagen
+*.jpgfilter=lfsdiff=lfs merge=lfs-text
+*.jpegfilter=lfsdiff=lfs merge=lfs-text
+*.pngfilter=lfsdiff=lfs merge=lfs-text
+*.giffilter=lfsdiff=lfs merge=lfs-text
+*.psdfilter=lfsdiff=lfs merge=lfs-text
+*.aifilter=lfsdiff=lfs merge=lfs-text
+*.tiffilter=lfsdiff=lfs merge=lfs-text
+
+# Audio
+*.mp3filter=lfsdiff=lfs merge=lfs-text
+*.wavfilter=lfsdiff=lfs merge=lfs-text
+*.oggfilter=lfsdiff=lfs merge=lfs-text
+
+# Vídeo
+*.mp4filter=lfsdiff=lfs merge=lfs-text
+*.movfilter=lfsdiff=lfs merge=lfs-text
+
+#Objeto 3D
+*. FBXfilter=lfs diff=lfs merge=lfs-text
+*.fbxfilter=lfs diff=lfs merge=lfs-text
+*.blendfilter=lfs diff=lfs merge=lfs-text
+*.objfilter=lfs diff=lfs merge=lfs-text
+
+# ETC
+*.afilter=lfs diff=lfs merge=lfs-text
+*.exrfilter=lfs diff=lfs merge=lfs-text
+*.tgafilter=lfsdiff=lfs merge=lfs-text
+*.pdffilter=lfsdiff=lfs merge=lfs-text
+*.zipfilter=lfsdiff=lfs merge=lfs-text
+*.dllfilter=lfsdiff=lfs merge=lfs-text
+*.unitypackagefilter=lfs diff=lfs merge=lfs-text
+*.aiffilter=lfsdiff=lfs merge=lfs-text
+*.ttffilter=lfsdiff=lfs merge=lfs-text
+*.rnsfilter=lfs diff=lfs merge=lfs-text
+*.reasonfilter=lfs diff=lfs merge=lfs-text
+*.lxofilter=lfs diff=lfs merge=lfs-text

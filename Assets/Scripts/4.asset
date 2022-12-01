@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 066a0b2008dcba14aa12cb299ef5b1b6, type: 3}
+  m_Name: 4
+  m_EditorClassIdentifier: 
+  textoNarrativo: "\xBF\xA1Ah eso!?...No es nada.Yo estar\xEDa m\xE1s preocupado
+    por caminar por el bosque, peores cosas se escuchan merodeando por aqu\xED.  "
+  respuestaUno: "\xBFPeores cosas?"
+  respuestaDos: "En ese caso\u2026Creo que voy a regresar"
+  arrayReferencias: 0700000008000000

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 066a0b2008dcba14aa12cb299ef5b1b6, type: 3}
+  m_Name: 1
+  m_EditorClassIdentifier: 
+  textoNarrativo: "Antes de siquiera lograr ver a trav\xE9s de la ventana un desconocido
+    se cruza en medio. - \xA1Wow! \xBFQu\xE9 haces?.Observar por la ventana de casas
+    ajenas no es muy educado, es bastante espeluznante "
+  respuestaUno: "Lo siento, cre\xED escuchar un pedido de ayuda"
+  respuestaDos: "\xBFQu\xE9 es eso en tus guantes?"
+  arrayReferencias: 0600000005000000
